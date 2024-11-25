@@ -20,5 +20,5 @@ git_practice/
 - Git, GitHub
 
 ## 分担
-メインHTML担当：A、B
-メインCSS担当：C、D
+- メインHTML担当：A、B
+- CSS担当：C、D
