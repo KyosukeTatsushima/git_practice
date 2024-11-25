@@ -19,6 +19,6 @@ git_practice/
 - HTML5, CSS3
 - Git, GitHub
 
-- ##
-- メインHTML担当：A、B
-- メインCSS担当：C、D
+## 分担
+メインHTML担当：A、B
+メインCSS担当：C、D
