@@ -18,3 +18,7 @@ git_practice/
 ## 使用技術
 - HTML5, CSS3
 - Git, GitHub
+
+- ##
+- メインHTML担当：A、B
+- メインCSS担当：C、D
